@@ -1,9 +1,17 @@
-## Hi there 👋
+Hi, i'm oleribe chinwendu tobechukwu 
 
-<!--
-**chinwendu2/chinwendu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<a href="https://linkedin.com/in/oleribe-chinwendu..."><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+introduction:
+My name is oleribe chinwendu tobechukwu,i am a skilled certified cybersecurity analyst,networking specialist and cloud engineer with expertise in securing cloud environments,designing resilent architectures and implementing best practices for data protection.with a strong background in cloud platforms like AWS,and AZURE.i specialize in threat analysis,security automation,identity and access management(IAM) and compliance frameworks.passionate about cybersecurity ,i stay updated with the latest threats and innovations to safeguard cloud infrastructure and critical business assets.
+carrer objective:
+A cloud engineer seeking a challenging role in cybersecurity and cloud computing,my focus is on building scalable,secure, and efficient cloud solutions while mitigating risk and ensuring regulatory compliance.
+skill:                                                                            Associated project
+microsoft server administration
+network traffic monitoring and attack detection
+vlan segmentation
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
